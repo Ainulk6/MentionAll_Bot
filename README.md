@@ -30,3 +30,6 @@ Heroku is the easiest way to deploy this Bot
 - [❤️CHIKU❤️] : Dev
 - [SAMIE] : Dev
 - [SHIKARI](https://github.com/ShikariBaaZ): Dev
+
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ainulk6/MentionAll_Bot)
